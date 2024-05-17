@@ -7,7 +7,7 @@
 
 > Contacts was built using [Vite](https://vitejs.dev/), [React](https://github.com/facebook/react), [TailwindCSS](https://github.com/tailwindlabs/tailwindcss), and [TypeScript](https://github.com/microsoft/TypeScript).
 
-**🍿 Live preview:** <https:/contacts.andreslemusm.com/>
+**🍿 Live preview:** <https://contacts.andreslemusm.com/>
 
 ## Setup
 
