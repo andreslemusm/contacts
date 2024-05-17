@@ -1,5 +1,5 @@
 import { addContact, useContactsContext } from "../../context/contacts";
-import { Input } from "../../components";
+import { Input } from "../../components/lib";
 import { useRef, useState } from "react";
 
 const ContactForm = () => {
