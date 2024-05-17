@@ -1,9 +1,9 @@
-function App() {
-  return (
-    <>
-      <h1 className="text-3xl font-bold underline">Hello world!</h1>
-    </>
-  );
-}
+import { ContactsProvider } from "./context/contacts";
+import { ContactsRoute } from "./routes/contacts";
 
-export default App;
+export const App = () => (
+  <ContactsProvider>
+    {/* Probably this is where you define your routes if you need too */}
+    <ContactsRoute />
+  </ContactsProvider>
+);
