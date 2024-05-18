@@ -7,7 +7,7 @@
 
 > Contacts was built using [Vite](https://vitejs.dev/), [React](https://github.com/facebook/react), [TailwindCSS](https://github.com/tailwindlabs/tailwindcss), and [TypeScript](https://github.com/microsoft/TypeScript).
 
-**🍿 Live preview:** <https://contact-list-andres-lemus-projects.vercel.app/>
+**🍿 Live preview:** <https://contacts-ebon.vercel.app/>
 
 ## Setup
 
